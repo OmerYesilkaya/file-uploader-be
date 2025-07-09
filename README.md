@@ -30,7 +30,7 @@ Optional image preview rendering
 #### 3. 📁 File Upload System
 
 -   ~File upload and save to disk (intermediary step)~
--   Create upload directory per user
+-   Create upload directory per user (CONTINUE FROM HERE)
 -   POST endpoint for chunked upload:
     -   Accept file metadata (filename, chunkIndex, totalChunks)
     -   Append chunks to temp file

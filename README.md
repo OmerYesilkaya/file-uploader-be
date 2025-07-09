@@ -10,6 +10,8 @@ A self-hosted file server with:
 -   Signed URL support for private file downloads
 -   Image preview rendering
 
+For the client code, check: https://github.com/OmerYesilkaya/file-uploader-fe
+
 ## ✅ Project Tasks
 
 #### 1. 📦 Project Setup

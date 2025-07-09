@@ -1,13 +1,14 @@
 ## Description
 
 A self-hosted file server with:
-Per-user authentication (JWT)
-Chunked file uploads
-Listing and downloading files
-Zipping selected files
-Private/public access toggle
-Signed URL support for private file downloads
-Optional image preview rendering
+
+-   Per-user authentication (JWT)
+-   Chunked file uploads
+-   Listing and downloading files
+-   Zipping selected files
+-   Private/public access toggle
+-   Signed URL support for private file downloads
+-   Image preview rendering
 
 ## ✅ Project Tasks
 
